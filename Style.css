@@ -1,0 +1,51 @@
+body {
+
+background-color: #a74978;
+
+}
+
+.fieldset {
+
+   background-color: white;
+   border-radius: 10px;
+   text-align: center;
+   width: 20rem;
+   margin: auto;
+   position: relative;
+   top: 2rem;
+
+}
+
+.Titulo {
+
+   font-size: 1rem;
+   text-align: center;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-style: oblique;
+   color: #a74978;
+     
+}
+
+.Botón {
+
+    color: #ffffff;
+    background-color: #a74978;
+    border-radius: 5px;
+
+}
+
+ table {
+
+   background-color: white;
+   position: relative;
+   top: 2rem;
+   margin: 0 auto;
+   border-radius: 5px;
+
+ }
+
+ .tr1 th {
+
+   background-color: pink;
+
+ }
